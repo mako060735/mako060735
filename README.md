@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 <!--
 **mako060735/mako060735** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
